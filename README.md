@@ -4,17 +4,18 @@
 및 파일은 [CC0-1.0](/LICENSE)으로 라이선스됩니다.
 
 ## Quick Start
+새 빈 폴더에서 실행합니다.
 ### [plain](https://github.com/xnuk/new/tree/plain)
 ```
-curl --get https://github.com/xnuk/new/compare/51ae3c672f40aae36a05e1d1ec7d5977ee00bcf7...plain.diff | git am -
+curl --get https://github.com/xnuk/new/compare/51ae3c672f40aae36a05e1d1ec7d5977ee00bcf7...plain.diff | patch
 ```
 
 ### [rust](https://github.com/xnuk/new/tree/rust)
 ```
-curl --get https://github.com/xnuk/new/compare/51ae3c672f40aae36a05e1d1ec7d5977ee00bcf7...rust.diff | git am -
+curl --get https://github.com/xnuk/new/compare/51ae3c672f40aae36a05e1d1ec7d5977ee00bcf7...rust.diff | patch
 ```
 
 ### [typescript](https://github.com/xnuk/new/tree/typescript)
 ```
-curl --get https://github.com/xnuk/new/compare/51ae3c672f40aae36a05e1d1ec7d5977ee00bcf7...typescript.diff | git am -
+curl --get https://github.com/xnuk/new/compare/51ae3c672f40aae36a05e1d1ec7d5977ee00bcf7...typescript.diff | patch
 ```
