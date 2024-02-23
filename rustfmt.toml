@@ -1,0 +1,4 @@
+hard_tabs = true
+imports_granularity = 'Module'
+max_width = 80
+newline_style = "Unix"
