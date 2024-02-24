@@ -7,15 +7,15 @@
 새 빈 폴더에서 실행합니다.
 ### [plain](https://github.com/xnuk/new/tree/plain)
 ```
-curl --get https://github.com/xnuk/new/compare/51ae3c672f40aae36a05e1d1ec7d5977ee00bcf7...plain.diff | patch
+curl -L https://xnu.kr/new/plain | patch
 ```
 
 ### [rust](https://github.com/xnuk/new/tree/rust)
 ```
-curl --get https://github.com/xnuk/new/compare/51ae3c672f40aae36a05e1d1ec7d5977ee00bcf7...rust.diff | patch
+curl -L https://xnu.kr/new/rust | patch
 ```
 
 ### [typescript](https://github.com/xnuk/new/tree/typescript)
 ```
-curl --get https://github.com/xnuk/new/compare/51ae3c672f40aae36a05e1d1ec7d5977ee00bcf7...typescript.diff | patch
+curl -L https://xnu.kr/new/typescript | patch
 ```
