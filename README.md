@@ -19,3 +19,8 @@ curl -L https://xnu.kr/new/rust | patch
 ```
 curl -L https://xnu.kr/new/typescript | patch
 ```
+
+### [haskell](https://github.com/xnuk/new/tree/haskell)
+```
+curl -L https://xnu.kr/new/haskell | patch
+```
