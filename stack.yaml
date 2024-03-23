@@ -1,0 +1,4 @@
+# curl -sX HEAD -w '%{redirect_url}' https://www.stackage.org/nightly | grep -o 'nightly-.*'
+resolver: nightly-2024-03-20
+compiler-check: newer-minor
+system-ghc: true
