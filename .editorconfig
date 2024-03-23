@@ -10,6 +10,6 @@ end_of_line = lf
 max_line_length = 80
 quote_type = single
 
-[*.{yml,yaml}]
+[*.{yml,yaml,hs}]
 indent_style = space
 indent_size = 2
