@@ -7,20 +7,20 @@
 새 빈 폴더에서 실행합니다.
 ### [plain](https://github.com/xnuk/new/tree/plain)
 ```
-curl -L https://xnu.kr/new/plain | patch
+curl -L https://xnu.kr/new/plain | patch -p1
 ```
 
 ### [rust](https://github.com/xnuk/new/tree/rust)
 ```
-curl -L https://xnu.kr/new/rust | patch
+curl -L https://xnu.kr/new/rust | patch -p1
 ```
 
 ### [typescript](https://github.com/xnuk/new/tree/typescript)
 ```
-curl -L https://xnu.kr/new/typescript | patch
+curl -L https://xnu.kr/new/typescript | patch -p1
 ```
 
 ### [haskell](https://github.com/xnuk/new/tree/haskell)
 ```
-curl -L https://xnu.kr/new/haskell | patch
+curl -L https://xnu.kr/new/haskell | patch -p1
 ```
